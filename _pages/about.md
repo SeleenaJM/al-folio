@@ -6,7 +6,7 @@ description: <a href="#">Affiliation</a>
 
 profile:
   align: right
-  image: 
+  
   
 
 news: true
