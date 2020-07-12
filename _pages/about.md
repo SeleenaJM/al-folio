@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: [//]: # (<a href="https://www.informatics.illinois.edu/">Illinois Informatics Institute</a>)
+description: <a href="#">Affiliation</a>
 
 profile:
   align: right
-  image: self_photo.jpg
+  image: 
   
 
 news: true
