@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.informatics.illinois.edu/">Illinois Informatics Institute</a> 
+description: [//]: # (<a href="https://www.informatics.illinois.edu/">Illinois Informatics Institute</a>)
 
 profile:
   align: right
@@ -12,10 +12,6 @@ profile:
 news: true
 social: true
 ---
-
-I am a PhD student in Illinois Informatics Institute at University of Illinois at Urbana-Champaign (UIUC). Before coming to UIUC, I obtained a M.S. degree in Information Sciences at University of Pittsburgh.
-
-
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
