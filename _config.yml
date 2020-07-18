@@ -129,7 +129,7 @@ scholar:
   order: descending
 
   source: /_bibliography/
-  bibliography: preprint.bib, conferences.bib, journals.bib, workshops.bib
+  bibliography: preprint.bib
   bibliography_template: bib
 
   replace_strings: true
