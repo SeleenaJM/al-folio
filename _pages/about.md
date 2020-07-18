@@ -2,10 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliation</a>
 
+             
 profile:
   align: right
+  image: self_photo.jpg
   
   
 
@@ -13,8 +14,13 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[Informatics @ UIUC] (https://www.informatics.illinois.edu)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Email: {mjiang17}AT{illinois}DOT{edu}
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
+
+I'm a PhD student in Illinois Informatics Institute at University of Illinois at Urbana-Champaign (UIUC), working with [J. Stephen Downie](https://ischool.illinois.edu/people/j-stephen-downie). Before coming to UIUC, I obtained my M.S. degree in Information Sciences from University of Pittsburgh.
+
+
+I'm interested in natural langauage processing and social computing. My research goal is to better analyze how humans and AI systems understand the information from digital materials such as films, images and ebooks.
+
