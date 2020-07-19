@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TIGEr & REO -- Image Caption Evaluation
-description: a project with a background image
+title: Image Caption Evaluation
+description: 
 img: /assets/img/caption_evaluation.png
 importance: 2
 ---

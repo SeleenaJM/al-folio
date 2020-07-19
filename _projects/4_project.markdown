@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Literature Data Analysis 
-description: another without an image
+title: Data Analytics in English Literature 
+description: 
 img: /assets/img/7.jpg
-importance: 3
+importance: 1
 ---

@@ -181,7 +181,7 @@ footer.sticky-bottom {
   padding-bottom: 5rem;
   h1 {
     color: $theme-color;
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 
@@ -230,8 +230,8 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
-  .grid-row {
-    width: 750px;
+  .grid-item {
+    width: 450px;
     margin-bottom: 20px;
     a {
       color: black;
@@ -250,12 +250,12 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 1rem;     // [JH] margin between the section title and paper list
   h2.year {
-    color: $grey-color-light;
+    color: $grey-color;
     border-top: 1px solid $grey-color-light;
-    padding-top: 1rem;
-    margin-top: 2rem;
+    padding-top: -8rem;
+    margin-top: -1rem;   // [JH] margin between each paper
     margin-bottom: -2rem;
     text-align: right;
   }
@@ -263,12 +263,14 @@ footer.sticky-bottom {
     list-style: none;
     padding: 0;
     margin-top: 0;
-
     li {
       margin-bottom: 1rem;
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
+        padding-left: -5rem;
+        padding-right: -50rem;
+        max-width: 100px;   // [JH] adjust space between abbr and title/author
         abbr {
           display: inline-block;
           background-color: $theme-color;
@@ -277,6 +279,7 @@ footer.sticky-bottom {
         }
       }
       span {
+        width:120%;   // [JH] adjust the width of the paper's title/author/proceedings
         display: block;
       }
       .title {
@@ -295,6 +298,7 @@ footer.sticky-bottom {
           font-style: normal;
         }
       }
+
       em.star {
         border-bottom: none;
         color: $theme-color;
