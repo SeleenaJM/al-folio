@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientific Relation Extraction
+title: Relation Extraction in Scholarly Publications
 description: 
 img: /assets/img/rel_extraction.png
 importance: 3
