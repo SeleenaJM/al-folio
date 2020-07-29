@@ -23,5 +23,5 @@ I'm currently a PhD student in Illinois Informatics Institute at University of I
 
 Previously, I've interned at [Deep Learning Group](https://www.microsoft.com/en-us/research/group/deep-learning-group/) in [Microsoft Research](https://www.microsoft.com/en-us/research/) working on the evaluation of image caption generators.
 
-I'm interested in natural language processing and data analytics. My research goal is to better understand how humans and AI systems perceive the information from digital objects such as ebooks, images, and films.
+I'm interested in natural language processing and data analytics. My research goal is to better explore how humans and AI systems understand the information from digital objects such as ebooks, images, and films.
 
