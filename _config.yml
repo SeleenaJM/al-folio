@@ -111,6 +111,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-sitemap
   # - bootstrap
   # - material-sass
 
