@@ -17,6 +17,7 @@
       {{reference}}
     {% else %}
       <span class="title"><a href="{{entry.url}}">{{entry.title}}</a></span>
+      <span style="color:blue;">{{entry.award}}</span>
       <span class="author">
         {% for author in entry.author_array %}
           {% if forloop.length == 1 %}
